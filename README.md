@@ -1,1 +1,5 @@
 # Research-paper-in-Operating-systems
+
+Improved Round Robin Scheduling Algorithm for Cloud Computing Research paper
+
+Abstract—Cloud computing plays an important role in our daily life. It helps us to share and update data, knowledge, storage, and resources between various regions. Process schedul- ing is very important in cloud computing, it improves resource utilization, decreases process waiting time and maximizes the number of processes done per time. The Round Robin algorithm is one of the most common scheduling algorithms due to its simplicity and fairness. This paper represents a new round- robin algorithm having proficient quantum time. This paper will introduce an algorithm that makes the round-robin algorithm more efficient and try to improve it by combining Shortest-Job- First (SJF) and Round Robin (RR) with an efficient algorithm for choosing suitable quantum time. The algorithm is experimentally and comparatively better than the mentioned round robin algo- rithms in this paper. The proposed algorithm has better results in decreasing average turnaround time, average waiting time and number of context switching.
